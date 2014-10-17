@@ -1,0 +1,6 @@
+---
+destination: 'blog'
+with_http: true
+with_js: true
+---
+Переходим в <a href="blog">блог</a>...
