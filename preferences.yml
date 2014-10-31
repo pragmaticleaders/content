@@ -4,3 +4,6 @@ languages: [ 'en', 'uk', 'ru' ]
 
 # Number of posts displayed on latest posts page.
 latest_count: 10
+
+# Quantcast code 
+quantcast: 'p-2jCDaFFJjGHDt'
