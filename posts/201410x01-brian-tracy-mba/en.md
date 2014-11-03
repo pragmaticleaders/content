@@ -15,9 +15,9 @@ The hero is vigorous and active and still looks good in his 70 - Brian Tracy, wo
 
 Everybody was able to benefit from a seminar – part of it was dedicated to the topics of personal effectiveness, goal setting and time management.  These were the most practical modules with off-the-shelf tools for self-development.
 
-Still, in the first place, training is intended for top managers and business owners.
+Still, in the first place, seminar is intended for top managers and business owners.
 
-The title of the seminar - "2 day MBA" - has some sense.  Brian goes over various aspects of business such as planning, marketing, sales, product portfolio management, product quality management, recruiting and employee retention.  Explains why measure business with numbers, which numbers, how, and what to do afterwards.  Brian doesn't go into details, doesn't give ready-made recipes – also it's impossible in a given format.  Instead he points out the principles and approaches, provides the bare bones of the knowledge.
+The title of the training - "2 day MBA" - has some sense.  Brian goes over various aspects of business such as planning, marketing, sales, product portfolio management, product quality management, recruiting and employee retention.  Explains why measure business with numbers, which numbers, how, and what to do afterwards.  Brian doesn't go into details, doesn't give ready-made recipes – also it's impossible in a given format.  Instead he points out the principles and approaches, provides the bare bones of the knowledge.
 
 Still the information is quite practical so that one can really start to act based on it.  But keep in mind that the devil is in the details. For example, I do not quite agree with the proposed methods of motivation - particularly because of the large number of details and nuances in this subject.
 
