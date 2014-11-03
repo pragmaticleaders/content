@@ -2,11 +2,6 @@
 destination: 'en/blog'
 with_http: true
 ---
-<ul>
-	<li><a href="en/blog">English version</a></li>
-	<li><a href="uk/blog">Українська версія</a></li>
-	<li><a href="ru/blog">Русская версия</a></li>
-</ul>
 <script>
 	var lang = window.navigator.userLanguage || window.navigator.language;
 	lang = lang.substr(0,2);
@@ -20,3 +15,8 @@ with_http: true
 			window.location.href = '<%= $pref[:languages].first %>/blog';
 	}
 </script>
+<ul>
+	<li><a href="en/blog">English version</a></li>
+	<li><a href="uk/blog">Українська версія</a></li>
+	<li><a href="ru/blog">Русская версия</a></li>
+</ul>
