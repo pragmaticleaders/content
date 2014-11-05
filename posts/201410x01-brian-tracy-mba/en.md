@@ -27,6 +27,6 @@ And like a refrain in each set of questions: What will be your immediate next ac
 
 What is at the end of the day?  Much better understanding of the business, exercises to think out and the action plan.  And yes - now I'm a certified MBA!
 
-![MBA certificate](/assets/img/BrianTracyMBACert.png)
+![MBA certificate](/assets/img/BrianTracyMBACert.jpg)
 
 And what will be your immediate next action?
