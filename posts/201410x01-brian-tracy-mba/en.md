@@ -11,7 +11,7 @@ What made more than a hundred serious and busy people to come to the sea when it
 
 The hero is vigorous and active and still looks good in his 70 - Brian Tracy, world-class business trainer. His training "Total Business Mastery ~ 2 day MBA" was organized by "VEDA" company in Odessa in October 17-18.
 
-![Brian Tracy Training](http://veda.od.ua/images/cms/data/brajan_trejsi_2daymba/dsc0544.jpg)
+![Brian Tracy Training](/assets/img/BrianTracyMBAHall.jpg)
 
 Everybody was able to benefit from a seminar – part of it was dedicated to the topics of personal effectiveness, goal setting and time management.  These were the most practical modules with off-the-shelf tools for self-development.
 
