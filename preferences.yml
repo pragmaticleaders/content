@@ -7,3 +7,6 @@ latest_count: 10
 
 # Quantcast code 
 quantcast: 'p-2jCDaFFJjGHDt'
+
+# Disqus code
+disqus: 'pragmaticleaders'
