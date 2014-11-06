@@ -1,5 +1,6 @@
 ---
 title: "MBA in 2 days"
+disqus: "MBA in 2 days"
 created_at: 2014-10-30 3:00:00 +0000
 kind: article
 slug: "mba-in-2-days"
