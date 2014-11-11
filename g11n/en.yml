@@ -4,3 +4,5 @@ en:
   tag:
     review: 'reviews'
     training: 'trainings'
+  followme:
+    welcome: 'Eventually I come up with an interesting article or two – stay connected via RSS, Social Networks or subscribe to the Monthly Digest...'

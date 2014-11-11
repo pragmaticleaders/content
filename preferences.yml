@@ -10,3 +10,33 @@ quantcast: 'p-2jCDaFFJjGHDt'
 
 # Disqus code
 disqus: 'pragmaticleaders'
+
+# Follow me box show/hide
+followme: true
+
+# Madmimi code
+madmimi: 'yes'
+
+# RSS URLs
+rss:
+  en: '/en/blog/feed/'
+  uk: '/uk/blog/feed/'
+  ru: '/ru/blog/feed/'
+
+# Twitter URLs 
+twitter:
+  en: '/en/twitter/'
+  uk: '/uk/twitter/'
+  ru: '/ru/twitter/'
+
+# Facebook URLs
+facebook:
+  en: '/en/facebook/'
+  uk: '/uk/facebook/'
+  ru: '/ru/facebook/'
+
+# Linkedin URLs
+linkedin:
+  en: '/en/linkedin/'
+  uk: '/uk/linkedin/'
+  ru: '/ru/linkedin/'
