@@ -11,7 +11,7 @@ excerpt: "Wanna come to the sea when it’s cold and wet? Wanna pay for this aro
 ---
 What made more than a hundred serious and busy people to come to the sea when it's cold and wet and moreover to pay for this dubious pleasure an average of $1000?
 
-The hero is vigorous and active and still looks good in his 70 - Brian Tracy, world-class business trainer. His training "Total Business Mastery ~ 2 day MBA" was organized by "VEDA" company in Odessa in October 17-18.
+The hero is vigorous and active and still looks good in his 70 - [Brian Tracy](http://www.briantracy.com/), world-class business trainer. His training "Total Business Mastery ~ 2 day MBA" was organized by ["VEDA" company](http://veda.od.ua/) in Odessa in October 17-18.
 
 ![Brian Tracy Training](/assets/img/BrianTracyMBAHall.jpg)
 
