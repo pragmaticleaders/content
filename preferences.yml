@@ -29,9 +29,9 @@ rss:
 
 # Twitter URLs 
 twitter:
-  en: '/en/twitter/'
-  uk: '/uk/twitter/'
-  ru: '/ru/twitter/'
+  en: 'https://twitter.com/pragmatic_en'
+  uk: 'https://twitter.com/pragmatic_uk'
+  ru: 'https://twitter.com/pragmatic_ru'
 
 # Facebook URLs
 facebook:
