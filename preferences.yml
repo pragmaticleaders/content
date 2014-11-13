@@ -34,13 +34,13 @@ twitter:
   ru: 'https://twitter.com/pragmatic_ru'
 
 # Facebook URLs
-facebook:
-  en: '/en/facebook/'
-  uk: '/uk/facebook/'
-  ru: '/ru/facebook/'
+#facebook:
+#  en: '/en/facebook/'
+#  uk: '/uk/facebook/'
+#  ru: '/ru/facebook/'
 
 # Linkedin URLs
-linkedin:
-  en: '/en/linkedin/'
-  uk: '/uk/linkedin/'
-  ru: '/ru/linkedin/'
+#linkedin:
+#  en: '/en/linkedin/'
+#  uk: '/uk/linkedin/'
+#  ru: '/ru/linkedin/'
