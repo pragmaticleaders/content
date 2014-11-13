@@ -1,0 +1,6 @@
+---
+title: 'Pragmatic Leaders'
+author_name: 'Andriy Skuratoff'
+author_uri: 'http://pragmaticleaders.com/ru'
+---
+<%= atom_feed :articles => sorted_articles_by_lang('ru'), :limit => $pref[:latest_count] %>

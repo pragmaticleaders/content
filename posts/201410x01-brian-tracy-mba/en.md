@@ -7,6 +7,7 @@ slug: "mba-in-2-days"
 tags:
     - training
     - review
+excerpt: "Wanna come to the sea when it’s cold and wet? Wanna pay for this around $1000? And how about 2 days MBA program?"
 ---
 What made more than a hundred serious and busy people to come to the sea when it's cold and wet and moreover to pay for this dubious pleasure an average of $1000?
 

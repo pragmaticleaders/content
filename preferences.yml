@@ -1,3 +1,7 @@
+# Base URL for the site.  
+# Used by feed builder.
+base_url: 'http://pragmaticleaders.com'
+
 # A list of languages site supports.
 # The firts in a list is concidered default language.
 languages: [ 'en', 'uk', 'ru' ]
@@ -19,9 +23,9 @@ madmimi: '124828'
 
 # RSS URLs
 rss:
-  en: '/en/blog/feed/'
-  uk: '/uk/blog/feed/'
-  ru: '/ru/blog/feed/'
+  en: '/en/blog/feed.xml'
+  uk: '/uk/blog/feed.xml'
+  ru: '/ru/blog/feed.xml'
 
 # Twitter URLs 
 twitter:
