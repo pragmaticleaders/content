@@ -4,6 +4,8 @@ en:
   tag:
     review: 'reviews'
     training: 'trainings'
+    psychology: 'psyche'
+    instrument: 'tools'
   followme:
     welcome: 'Eventually I come up with an interesting article or two – stay connected via RSS, Social Networks or subscribe to the Monthly Digest...'
   share:
