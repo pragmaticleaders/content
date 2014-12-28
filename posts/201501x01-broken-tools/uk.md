@@ -4,6 +4,7 @@ disqus: "Careening a Leader"
 created_at: 2015-01-10 3:00:00 +0000
 kind: article
 slug: "krenguvannya-lidera-1"
+sandbox: yes
 tags:
     - instrument
     - psychology
