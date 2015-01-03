@@ -1,7 +1,7 @@
 ---
-title: "Кренгування Лідера #1: шкода неробочих інструментів"
-slug: "krenguvannya-lidera-1"
-disqus: "Careening a Leader"
+title: "Зламаний Інструмент #1 : наслідки"
+slug: "zlamanyy-instrument-1"
+disqus: "Broken Tool"
 excerpt: "Великі і малі проблеми від неробочих управлінських інструментів"
 created_at: 2015-01-09 3:00:00 +0000
 kind: article
