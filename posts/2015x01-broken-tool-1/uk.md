@@ -3,9 +3,8 @@ title: "Зламаний Інструмент #1 : наслідки"
 slug: "zlamanyy-instrument-1"
 disqus: "Broken Tool"
 excerpt: "Великі і малі проблеми від неробочих управлінських інструментів"
-created_at: 2015-01-09 3:00:00 +0000
+created_at: 2015-01-09 00:00:00 +0000
 kind: article
-sandbox: yes
 tags:
     - instrument
     - psychology
