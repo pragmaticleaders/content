@@ -3,9 +3,8 @@ title: "Зламаний Інструмент #2 : причини"
 slug: "zlamanyy-instrument-2"
 disqus: "Broken Tool"
 excerpt: "Про лінивий мозок, небезпеку думання і управлінські рішення."
-created_at: 2015-01-18 00:00:00 +0000
+created_at: 2015-01-26 00:00:00 +0000
 kind: article
-sandbox: yes
 tags:
     - instrument
     - psychology
