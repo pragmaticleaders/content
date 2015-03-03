@@ -6,6 +6,7 @@ en:
     training: 'trainings'
     psychology: 'psychology'
     instrument: 'tools'
+    case: 'cases'
   followme:
     welcome: 'Eventually I come up with an interesting article or two – stay connected via RSS, Social Networks or subscribe to the Monthly Digest...'
   share:
