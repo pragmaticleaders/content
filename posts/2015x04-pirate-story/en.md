@@ -17,7 +17,7 @@ Receintly I've been looking for some music animations for my little dauther and 
 	<iframe src="https://www.youtube.com/embed/exads7KV-Y0?rel=0" allowfullscreen></iframe>
 </div>
 
-This kind of conflicts actually happens pretty often in real life.  Different teams, different businesses, different industries -- same 3 factors.
+This kind of conflicts actually happens pretty often in real life.  Different teams, different businesses, different industries -- same 3 factors in different combination.
 
 Factor 1 --- No Criteria
 ------------------------
@@ -61,7 +61,7 @@ Instead leader can use the following technique.
 {:.well}
 Stop any discussions.  Return to why and align the goal.  Choose the criteria.  Evaluate options.  Repeat with harder criteria until only one option is left. 
 
-But lets return to our pirates.  Actually the outcome wouldn't be so disastrous if the ground hadn't be prepared.
+But lets return to our pirates.  Actually the outcome wouldn't be so disastrous if the ground hadn't be prepared by...
 
 Factor 2 --- No Vision
 ----------------------
@@ -73,7 +73,7 @@ Pirates had nothing to do.  Actually I don't think they really had nothing to do
 {:.well}
 Have a vision.  Communicate it to your team.
 
-Still even in these circumstances a good team may at least avoid conflicts.  Unless it is already demoralized.
+And finally to make conflict worse -- our pirates were up tight and demoralized by...
 
 Factor 3 --- No Wins
 --------------------
@@ -84,8 +84,10 @@ Factor 3 --- No Wins
 Pirates team was not succesful for some long time.  And people need a story of success to relate to.  Without it the morale and engagement go down and people start to question their team membership.  After all nobody realy wants to have a part in failure.  
 
 {:.well}
-Plan your wins.  Then celebrate them.  
+Plan your small and big wins. Win! And celebrate.  
 
 Normally you plan to have most important things done first.  But what if that important thing is too difficult?  Sometimes it makes sence to start from less important but esier part, so that team can accomplish it and get a its taste of victory.
 
-And remeber -- a pirate without treasure is like a monkey without a spatula!
+## ---
+
+Thus for pirates it turned out badly.  But pragmatic leader could have helped them.  Remember this story and 3 factors have you encountered a conflict in your team.  And remeber -- a pirate without treasure is like a monkey without a spatula!
