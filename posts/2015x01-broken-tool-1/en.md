@@ -28,7 +28,7 @@ At this level the instrument makes little difference.  It does not do any direct
 
 Even though it is seemingly innocuous, any instrument is a drag on time, organisational and financial resources, which could be put to much better use.
 
-> Story #1 tald over a glass of beer by the businessmen I happen to know, lets call him Victor (name has been changed)
+> Story #1 told over a glass of beer by the businessmen I happen to know, lets call him Victor (name has been changed)
 >
 > Victor used to have daily half-hour stand-up meetings with all his staff. Over time the company had grown and the meetings where no longer the place where real problems were solved but were held nevertheless by inertia.   
 >
