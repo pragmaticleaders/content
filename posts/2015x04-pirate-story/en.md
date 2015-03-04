@@ -3,8 +3,7 @@ title: "Pirate Story or 3 things to boost conflict in a team"
 slug: "pirate-story"
 disqus: "Pirate Story"
 excerpt: "3 things to remember if you want to avoid conflicts in a team. Some pirates were harmed in the making of this post."
-created_at: 2015-03-05 00:00:00 +0000
-sandbox: yes
+created_at: 2015-03-04 00:00:00 +0000
 kind: article
 tags:
     - case
