@@ -5,6 +5,7 @@ disqus: "Broken Tool"
 excerpt: "Large and small problems of ineffective managerial instruments"
 created_at: 2015-01-09 00:00:00 +0000
 kind: article
+author: xaos
 tags:
     - instrument
     - psychology

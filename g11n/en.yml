@@ -1,6 +1,10 @@
 en:
   site:
     title: 'Pragmatic Leaders'
+  author:
+    xaos:
+      name: 'Andriy Skuratoff'
+      url: '#'
   tag:
     review: 'reviews'
     training: 'trainings'

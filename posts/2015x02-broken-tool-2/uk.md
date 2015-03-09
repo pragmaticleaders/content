@@ -5,6 +5,7 @@ disqus: "Broken Tool"
 excerpt: "Про лінивий мозок, небезпеку думання і управлінські рішення."
 created_at: 2015-01-26 00:00:00 +0000
 kind: article
+author: xaos
 tags:
     - instrument
     - psychology

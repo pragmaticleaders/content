@@ -1,6 +1,10 @@
 uk:
   site:
     title: 'Pragmatic Leaders'
+  author:
+    xaos:
+      name: 'Андрій Скуратов'
+      url: '#'
   tag:
     review: 'відгуки'
     training: 'тренінги'

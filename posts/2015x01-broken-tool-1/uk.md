@@ -5,6 +5,7 @@ disqus: "Broken Tool"
 excerpt: "Великі і малі проблеми від неробочих управлінських інструментів"
 created_at: 2015-01-09 00:00:00 +0000
 kind: article
+author: xaos
 tags:
     - instrument
     - psychology
