@@ -1,6 +1,6 @@
 ---
 title: "Broken Tool #1 : consequences"
-slug: "zlamanyy-instrument-1"
+slug: "broken-tool-1"
 disqus: "Broken Tool"
 excerpt: "Large and small problems of ineffective managerial instruments"
 created_at: 2015-01-09 00:00:00 +0000
