@@ -22,3 +22,5 @@ ru:
       notnow: 'не сейчас'
       already: 'уже давно'
       subscribe: 'Подписаться!'
+  thankyou:
+    header: "Спасибо!"

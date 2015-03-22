@@ -22,3 +22,5 @@ uk:
       notnow: 'не зараз'
       already: 'вже давно'
       subscribe: 'Підписатися!'
+  thankyou:
+    header: "Дякую!"
