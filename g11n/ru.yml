@@ -1,6 +1,7 @@
 ru:
   site:
     title: 'Pragmatic Leaders'
+  author:
     xaos:
       name: 'Андрий Скуратов'
       url: 'https://www.linkedin.com/in/andriyskuratoff'
@@ -10,7 +11,14 @@ ru:
     psychology: 'психология'
     instrument: 'инструменты'
   followme:
-    welcome: 'Время от времени я пишу интересную статью или две - оставайся на связи через RSS, социальные сети или подпишись на ежемесячный дайджест ...'
+    welcome: 'Не пропусти интересную статью — оставайся на связи...'
   share:
     share: 'Поделись'
     this: 'этой записью'
+  subscribe:
+    header: 'Понравилось? Будь на связи!'
+    message: 'Подпишись на Новости и Спецпредложения'
+    button:
+      notnow: 'не сейчас'
+      already: 'уже давно'
+      subscribe: 'Подписаться!'
