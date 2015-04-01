@@ -12,16 +12,18 @@ en:
     instrument: 'tools'
     case: 'cases'
   followme:
-    welcome: 'Don''t miss an interesting article — stay connected...'
+    welcome: 'Don’t miss an interesting article — stay connected...'
   share:
     share: 'Share'
     this: 'this post'
   subscribe:
-    header: 'Like it? Stay connected!'
-    message: 'Subscribe for News and Special Offers'
+    header: 'Find out more'
+    message: 'about the pragmatic aspects of leadership – sign up for news and don’t miss anything interesting'
+    email:
+      hint: "your e-mail"
     button:
       notnow: 'not now'
-      already: 'already subscibed'
+      already: 'already in'
       subscribe: 'Subscribe!'
   thankyou:
     header: "Thank You!"
