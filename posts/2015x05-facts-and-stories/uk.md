@@ -4,6 +4,7 @@ slug: "scho-robyty-z-faktamy-i-de-tut-motyvaciya"
 disqus: "Facts vs Stories"
 excerpt: "Факти і цифри - слабкі аргументи перед лицем захоплюючої історії..."
 created_at: 2015-07-28 00:00:00 +0000
+updated_at: 2015-08-14 00:00:00 +0000
 kind: article
 author: xaos
 tags:
