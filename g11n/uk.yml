@@ -21,8 +21,8 @@ uk:
     email:
       hint: "твій e-mail"
     button:
-      notnow: 'не зараз'
-      already: 'вже давно'
-      subscribe: 'Підписатися!'
+      notnow: 'мене не цікавить лідерство'
+      already: 'я вже насолоджуюсь розсилкою'
+      subscribe: 'Підписатися'
   thankyou:
     header: "Дякую!"

@@ -21,8 +21,8 @@ ru:
     email:
       hint: "твoй e-mail"
     button:
-      notnow: 'не сейчас'
-      already: 'уже давно'
-      subscribe: 'Подписаться!'
+      notnow: 'меня не интересует лидерство'
+      already: 'я уже наслаждаюсь рассылкой'
+      subscribe: 'Подписаться'
   thankyou:
     header: "Спасибо!"

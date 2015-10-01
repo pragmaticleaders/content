@@ -22,8 +22,8 @@ en:
     email:
       hint: "your e-mail"
     button:
-      notnow: 'not now'
-      already: 'already in'
-      subscribe: 'Subscribe!'
+      notnow: "I'm not interested in leadership"
+      already: "I'm already enjoying the newsletter"
+      subscribe: 'Subscribe'
   thankyou:
     header: "Thank You!"
