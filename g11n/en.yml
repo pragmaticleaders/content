@@ -17,13 +17,13 @@ en:
     share: 'Share'
     this: 'this post'
   subscribe:
-    header: 'Find out more'
-    message: 'about the pragmatic aspects of leadership – sign up for news and don’t miss anything interesting'
+    header: 'Get More'
+    message: 'some materials, events and special proposals from Pragmatic Leaders are available only for subscribers'
     email:
       hint: "your e-mail"
     button:
       notnow: "I'm not interested in leadership"
       already: "I'm already enjoying the newsletter"
-      subscribe: 'Subscribe'
+      subscribe: 'subscribe now!'
   thankyou:
     header: "Thank You!"
