@@ -38,22 +38,22 @@ First, align the goal.  Then specify success criteria.  Only then discuss the so
 
 When facing such conflict a leader is tempted to pursue one of the obvious strategies.
 
-{:.indend}
+{:.indent}
 ### Above the conflict
 
-{:.indend}
+{:.indent}
 A leader acts as a moderator, not interfering with the conflict and letting people settle it among themselves.  This strategy works if all your team members are essentially leaders.  Otherwise this may become a never ending story.  People may interpret this as your weakness, inability to make a decision, which is the responsibility of a leader.
 
-{:.indend}
+{:.indent}
 ### Compromise
 
-{:.indend}
+{:.indent}
 Leader combines all solutions into one compromise.  This works by making everybody equally unhappy.  Almost always this is the least optimal solution.
 
-{:.indend}
+{:.indent}
 ### Decision by Authority
 
-{:.indend}
+{:.indent}
 A leader makes a decision himself and uses his authority to enforce it.  This is a quick solution that may be used in critical situations if communicated properly.  Otherwise it kills proactivity and engagement.  In a worst case scenario a leader may foster an opposition inside his team.
 
 Instead a leader can use the following technique.
