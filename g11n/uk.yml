@@ -10,6 +10,7 @@ uk:
     training: 'тренінги'
     psychology: 'психологія'
     instrument: 'інструменти'
+    dict: 'словничок'
   followme:
     welcome: 'Не пропусти цікаву статтю — залишайся на зв’язку...'
   share:

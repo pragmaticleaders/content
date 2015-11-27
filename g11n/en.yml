@@ -11,6 +11,7 @@ en:
     psychology: 'psychology'
     instrument: 'tools'
     case: 'cases'
+    dict: 'dictionary'
   followme:
     welcome: 'Don’t miss an interesting article — stay connected...'
   share:

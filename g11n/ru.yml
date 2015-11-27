@@ -10,6 +10,7 @@ ru:
     training: 'тренинги'
     psychology: 'психология'
     instrument: 'инструменты'
+    dict: 'словарик'
   followme:
     welcome: 'Не пропусти интересную статью — оставайся на связи...'
   share:
