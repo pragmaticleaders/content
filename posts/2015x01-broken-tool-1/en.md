@@ -8,7 +8,7 @@ kind: article
 author: xaos
 tags:
     - instrument
-    - psychology
+    - psycho
 ---
 
 The longer the ship is at the sea, the slower it sails, the worse manoeuvres and the more fuel it burns.  Thus by the end of the season the velocity of the vessel can fall by as much as 40%.  The reason for this is that the hull of the ship is overgrown with various marine creatures, mostly colonies of crustaceans and mussels, so called benthos.  

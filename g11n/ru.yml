@@ -8,8 +8,9 @@ ru:
   tag:
     review: 'обзоры'
     training: 'тренинги'
-    psychology: 'психология'
+    psycho: 'под капотом'
     instrument: 'инструменты'
+    case: 'кейсы'
     dict: 'словарик'
   followme:
     welcome: 'Не пропусти интересную статью — оставайся на связи...'

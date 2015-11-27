@@ -8,7 +8,7 @@ updated_at: 2015-08-14 00:00:00 +0000
 kind: article
 author: xaos
 tags:
-    - psychology
+    - psycho
     - instrument
 ---
 

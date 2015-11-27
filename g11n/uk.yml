@@ -8,8 +8,9 @@ uk:
   tag:
     review: 'відгуки'
     training: 'тренінги'
-    psychology: 'психологія'
+    psycho: 'під капотом'
     instrument: 'інструменти'
+    case: 'кейси'
     dict: 'словничок'
   followme:
     welcome: 'Не пропусти цікаву статтю — залишайся на зв’язку...'

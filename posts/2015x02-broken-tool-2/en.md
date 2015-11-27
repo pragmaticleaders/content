@@ -8,7 +8,7 @@ kind: article
 author: xaos
 tags:
     - instrument
-    - psychology
+    - psycho
 ---
 
 Let's continue with the topic of ineffective managerial instruments, launched by [post](../broken-tool-1 "Broken Tool #1 : Consequences") on the gloomy prospects of applying them.  Why, would you ask, should an intelligent and reasonable person engage in an apparently ineffective and often harmful activity?  The thing is that this person is simply unaware that the activity is ineffective and harmful. How come?
