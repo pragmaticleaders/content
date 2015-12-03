@@ -4,7 +4,7 @@ en:
   author:
     xaos:
       name: 'Andriy Skuratoff'
-      url: 'https://www.linkedin.com/in/andriyskuratoff'
+      url: 'http://pragmaticleaders.com/'
   tag:
     review: 'reviews'
     training: 'trainings'
@@ -12,14 +12,15 @@ en:
     instrument: 'tools'
     case: 'cases'
     dict: 'dictionary'
+    leadership: 'leadership'
   followme:
-    welcome: 'Don’t miss an interesting article — stay connected...'
+    welcome: 'Don’t miss an interesting article — stay connected…'
   share:
     share: 'Share'
     this: 'this post'
   subscribe:
     header: 'Get More'
-    message: 'some materials, events and special proposals from Pragmatic Leaders are available only for subscribers'
+    message: 'some materials, events and special proposals from Pragmatic Leaders are available only for subscribers…'
     email:
       hint: "your e-mail"
     button:

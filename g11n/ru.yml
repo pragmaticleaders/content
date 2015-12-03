@@ -4,7 +4,7 @@ ru:
   author:
     xaos:
       name: 'Андрий Скуратоff'
-      url: 'https://www.linkedin.com/in/andriyskuratoff'
+      url: 'http://pragmaticleaders.com/'
   tag:
     review: 'обзоры'
     training: 'тренинги'
@@ -12,14 +12,15 @@ ru:
     instrument: 'инструменты'
     case: 'кейсы'
     dict: 'словарик'
+    leadership: 'лидерство'
   followme:
-    welcome: 'Не пропусти интересную статью — оставайся на связи...'
+    welcome: 'Не пропусти интересную статью — оставайся на связи…'
   share:
     share: 'Поделись'
     this: 'этой записью'
   subscribe:
     header: 'Получи Больше'
-    message: 'некоторые материалы, события и специальные предложения от Pragmatic Leaders доступны только по подписке...'
+    message: 'некоторые материалы, события и специальные предложения от Pragmatic Leaders доступны только по подписке…'
     email:
       hint: "твoй e-mail"
     button:
