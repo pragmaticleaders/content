@@ -8,11 +8,11 @@ ru:
   tag:
     review: 'обзоры'
     training: 'тренинги'
-    psycho: 'под капотом'
-    instrument: 'инструменты'
-    case: 'кейсы'
-    dict: 'словарик'
+    psychology: 'под капотом'
+    tales: '(не)были'
+    dictionary: 'словарик'
     leadership: 'лидерство'
+    management: 'менеджмент'
   followme:
     welcome: 'Не пропусти интересную статью — оставайся на связи…'
   share:

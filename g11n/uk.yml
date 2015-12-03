@@ -8,11 +8,11 @@ uk:
   tag:
     review: 'відгуки'
     training: 'тренінги'
-    psycho: 'під капотом'
-    instrument: 'інструменти'
-    case: 'кейси'
-    dict: 'словничок'
+    psychology: 'під капотом'
+    tales: '(не)билиці'
+    dictionary: 'словничок'
     leadership: 'лідерство'
+    management: 'менеджмент'
   followme:
     welcome: 'Не пропусти цікаву статтю — залишайся на звʼязку…'
   share:

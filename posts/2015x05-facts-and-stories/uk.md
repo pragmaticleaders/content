@@ -8,8 +8,8 @@ updated_at: 2015-08-14 00:00:00 +0000
 kind: article
 author: xaos
 tags:
-    - psycho
-    - instrument
+    - psychology
+    - leadership
 ---
 
 > Вночі таксист збив людину і втік.  Відомо, що

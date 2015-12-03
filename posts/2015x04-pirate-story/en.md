@@ -7,8 +7,8 @@ created_at: 2015-03-04 00:00:00 +0000
 kind: article
 author: xaos
 tags:
-    - case
-    - instrument
+    - tales
+    - leadership
 ---
 
 Recently I've been looking for some music animations for my little daughter and discovered [Eric Herman](http://www.erichermanmusic.com/about.html) and his brilliant and edifying pirate story.

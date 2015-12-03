@@ -9,7 +9,7 @@ kind: article
 author: xaos
 tags:
     - leadership
-    - psycho
+    - psychology
 ---
 
 Якщо [відповідальність --- це круто](../vidpovidalnist-ce-ktuto "ВІДПОВІДАЛЬНІСТЬ — ЦЕ КРУТО"), то чому ж тоді її так мало навколо нас?

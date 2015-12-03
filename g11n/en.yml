@@ -8,11 +8,11 @@ en:
   tag:
     review: 'reviews'
     training: 'trainings'
-    psycho: 'under the hood'
-    instrument: 'tools'
-    case: 'cases'
-    dict: 'dictionary'
+    psychology: 'under the hood'
+    tales: 'yarns'
+    dictionary: 'dictionary'
     leadership: 'leadership'
+    management: 'management'
   followme:
     welcome: 'Don’t miss an interesting article — stay connected…'
   share:
