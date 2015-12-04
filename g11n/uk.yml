@@ -25,6 +25,6 @@ uk:
       hint: "твій e-mail"
       invalid: "Гм, для підписки потрібен справжній e-mail…"
     button:
-      subscribe: 'підписатись негайно!'
+      subscribe: 'підписатись негайно'
   thankyou:
     header: "Дякую!"

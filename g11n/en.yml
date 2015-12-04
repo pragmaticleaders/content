@@ -25,6 +25,6 @@ en:
       hint: "your e-mail"
       invalid: "Hm, we actually need an email to subscribe…"
     button:
-      subscribe: 'subscribe now!'
+      subscribe: 'subscribe now'
   thankyou:
     header: "Thank You!"

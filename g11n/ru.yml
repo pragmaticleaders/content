@@ -25,6 +25,6 @@ ru:
       hint: "твoй e-mail"
       invalid: "Xм, для пoдписки нужен настоящий e-mail…"
     button:
-      subscribe: 'подписаться сейчас!'
+      subscribe: 'подписаться сейчас'
   thankyou:
     header: "Спасибо!"
