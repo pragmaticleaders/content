@@ -23,6 +23,7 @@ ru:
     message: 'некоторые материалы, события и специальные предложения от Pragmatic Leaders доступны только по подписке…'
     email:
       hint: "твoй e-mail"
+      invalid: "Xм, для пoдписки нужен настоящий e-mail…"
     button:
       subscribe: 'подписаться сейчас!'
   thankyou:

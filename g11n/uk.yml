@@ -23,6 +23,7 @@ uk:
     message: 'деякі матеріали, події та спеціальні пропозиції від Pragmatic Leaders доступні лише по підписці…'
     email:
       hint: "твій e-mail"
+      invalid: "Гм, для підписки потрібен справжній e-mail…"
     button:
       subscribe: 'підписатись негайно!'
   thankyou:

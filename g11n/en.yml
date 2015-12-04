@@ -23,6 +23,7 @@ en:
     message: 'some materials, events and special proposals from Pragmatic Leaders are available only for subscribers…'
     email:
       hint: "your e-mail"
+      invalid: "Hm, we actually need an email to subscribe…"
     button:
       subscribe: 'subscribe now!'
   thankyou:
