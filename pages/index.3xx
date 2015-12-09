@@ -1,24 +1,6 @@
 ---
-destination: 'en/blog'
+destination: 'uk/blog'
 with_http: true
 ---
-<script>
-	var lang = window.navigator.userLanguage || window.navigator.language;
-	lang = lang.substr(0,2);
-	switch(lang){ 
-		<% $pref[:languages].each do |l| %>
-		case '<%=l%>':
-		<% end %>
-			window.location.href = lang + '/blog';
-			break;
-		default:
-			window.location.href = '<%= $pref[:languages].first %>/blog';
-	}
-</script>
-<noscript>
-	<ul>
-		<li><a href="en/blog">English version</a></li>
-		<li><a href="uk/blog">Українська версія</a></li>
-		<li><a href="ru/blog">Русская версия</a></li>
-	</ul>
-</noscript>
+
+<a href="uk/blog" hreflang="uk">Blog/Блог</a>
