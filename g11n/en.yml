@@ -28,3 +28,5 @@ en:
       subscribe: 'subscribe now'
   thankyou:
     header: "Thank You!"
+    instructions: "Follow the instructions in email to confirm the subscription."
+    back: "Back to reading"

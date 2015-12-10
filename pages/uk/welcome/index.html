@@ -1,0 +1,25 @@
+
+<div class="page-header text-muted divider">
+	Вітаю ;)
+</div>
+
+<p>Радий тебе бачити у нашому клубі прагматичних лідерів.</p>
+
+<p>Мене звати <a href="#">Андрій Скуратоff</a>.  Я засновник і основний автор цього ресурсу, практикуючий менеджер і бізнес тренер.</p>
+
+<p><b>Представся</b>, будь ласка — це зробить наше спілкування значно приємнішим…</p>
+
+<form role="form" class="madmimi digest" 
+					data-madmimi-id="<%= $pref[:madmimi] %>" data-lang="<%= @item.i18n[:lang] %>" data-type="news" data-source="Self Signed">
+
+	<input type="hidden" name="email" class="email" value="corvex@mailinator.com" />
+
+	<div class="form-group">
+		<input type="text" name="name" class="form-control name" placeholder="<%= tr 'subscribe.name.hint' %>" 
+			data-fv-message="<%= tr 'subscribe.name.invalid' %>" data-fv-notempty="true">
+	</div>
+
+	<button type="submit" class="btn btn-primary btn-lg yes">
+		<%= tr 'subscribe.button.introduce' %>
+	</button>
+</form>
