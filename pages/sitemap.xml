@@ -1,0 +1,1 @@
+<%= xml_sitemap :items => @items.reject{ |i| i[:sandbox] || i.binary? || %w(css js atom xml txt).include?(i[:extension]) } %>
