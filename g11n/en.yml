@@ -1,6 +1,15 @@
 en:
   site:
     title: 'Pragmatic Leaders'
+  brand:
+    top: 'Management Studio'
+    bottom: 'The Art of Managing Smart People'
+    title: 'Pragmatic Leaders'
+  category:
+    general: 'Pragmatic Leaders'
+    blog: 'Pragmatic Leadersʼ Blog'
+  menu:
+    blog: 'Blog'
   author:
     xaos:
       name: 'Andriy Skuratoff'

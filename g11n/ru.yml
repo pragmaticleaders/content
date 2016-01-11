@@ -1,6 +1,15 @@
 ru:
   site:
     title: 'Pragmatic Leaders'
+  brand:
+    top: 'Менеджмент студия'
+    bottom: 'Искусство управления умным персоналом'
+    title: 'Прагматичные Лидеры'
+  category:
+    general: 'Pragmatic Leaders'
+    blog: 'Блог Прагматичных Лидеров'
+  menu:
+    blog: 'Блог'
   author:
     xaos:
       name: 'Андрий Скуратоff'

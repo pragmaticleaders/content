@@ -1,6 +1,15 @@
 uk:
   site:
     title: 'Pragmatic Leaders'
+  brand:
+    top: 'Mенеджмент студія'
+    bottom: 'Мистецтво управління розумним персоналом'
+    title: 'Прагматичні Лідери'
+  category:
+    general: 'Pragmatic Leaders'
+    blog: 'Блог Прагматичних Лідерів'
+  menu:
+    blog: 'Блог'
   author:
     xaos:
       name: 'Андрій Скуратоff'
