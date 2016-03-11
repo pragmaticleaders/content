@@ -7,7 +7,6 @@ created_at: 2016-05-18 00:00:00 +0000
 updated_at: 2016-05-18 00:00:00 +0000
 kind: article
 author: xaos
-sandbox: yes
 tags:
     - management
     - people
