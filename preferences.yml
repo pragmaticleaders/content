@@ -12,6 +12,9 @@ latest_count: 10
 # Quantcast code 
 quantcast: 'p-2jCDaFFJjGHDt'
 
+# Facebook Pixed Id
+fbpixel: '1696193817317445'
+
 # Disqus code
 disqus: 'pragmaticleaders'
 
