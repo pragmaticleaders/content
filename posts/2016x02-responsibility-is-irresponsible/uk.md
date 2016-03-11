@@ -4,7 +4,7 @@ slug: "vidpovidalnist-ce-bezvidpovidalno"
 disqus: "Responsibility is Irresponsible"
 excerpt: "Від відповідальності до безвідповідальності один крок..."
 created_at: 2016-06-17 00:00:00 +0000
-updated_at: 2015-16-17 00:00:00 +0000
+updated_at: 2016-06-17 00:00:00 +0000
 kind: article
 author: xaos
 tags:
