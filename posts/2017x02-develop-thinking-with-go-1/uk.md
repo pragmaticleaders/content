@@ -7,7 +7,6 @@ created_at: 2017-08-25 00:00:00 +0000
 updated_at: 2017-08-25 00:00:00 +0000
 kind: article
 author: chochikun
-sandbox: yes
 tags:
     - strategic
     - thinking
