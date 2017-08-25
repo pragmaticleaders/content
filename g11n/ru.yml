@@ -26,6 +26,8 @@ ru:
     culture: 'культура'
     stratagems: 'стратагемы'
     negotiations: 'переговоры'
+    strategic: 'стратегическое'
+    thinking: 'мышление'
   followme:
     welcome: 'Не пропусти интересную статью — оставайся на связи…'
   share:

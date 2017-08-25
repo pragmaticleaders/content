@@ -26,6 +26,8 @@ en:
     culture: 'culture'
     stratagems: 'stratagems'
     negotiations: 'negotiations'
+    strategic: 'strategic'
+    thinking: 'thinking'
   followme:
     welcome: 'Don’t miss an interesting article — stay connected…'
   share:
